@@ -1,0 +1,169 @@
+{C:/Users/yu/Desktop/co final/tb_SingleCycle.v} {1 {vlog -work work {C:\Users\yu\Desktop\co final\tb_SingleCycle.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_SingleCycle
+
+Top level modules:
+	tb_SingleCycle
+
+} {} {}} {C:/Users/yu/Desktop/co final/MUX_2to1.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/MUX_2to1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX_2to1
+
+Top level modules:
+	MUX_2to1
+
+} {} {}} {C:/Users/yu/Desktop/co final/Multiplier.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/Multiplier.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Multiplier
+
+Top level modules:
+	Multiplier
+
+} {} {}} {C:/Users/yu/Desktop/co final/MEM_WB.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/MEM_WB.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MEM_WB
+
+Top level modules:
+	MEM_WB
+
+} {} {}} {C:/Users/yu/Desktop/co final/Control.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/Control.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} {C:/Users/yu/Desktop/co final/MUX_4to1.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/MUX_4to1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Mux_4to1
+
+Top level modules:
+	Mux_4to1
+
+} {} {}} {C:/Users/yu/Desktop/co final/ID_EX.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/ID_EX.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} {C:/Users/yu/Desktop/co final/ALU.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/yu/Desktop/co final/reg32.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/reg32.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module reg32
+
+Top level modules:
+	reg32
+
+} {} {}} {C:/Users/yu/Desktop/co final/EX_MEM.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/EX_MEM.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module EX_MEM
+
+Top level modules:
+	EX_MEM
+
+} {} {}} {C:/Users/yu/Desktop/co final/IF_ID.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/IF_ID.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}} {C:/Users/yu/Desktop/co final/barrel_shifter.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/barrel_shifter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module barrel_shifter
+
+Top level modules:
+	barrel_shifter
+
+} {} {}} {C:/Users/yu/Desktop/co final/add32.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/add32.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module add32
+
+Top level modules:
+	add32
+
+} {} {}} {C:/Users/yu/Desktop/co final/FA.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/FA.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module FA
+
+Top level modules:
+	FA
+
+} {} {}} {C:/Users/yu/Desktop/co final/MUX_3to1.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/MUX_3to1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX_3to1
+
+Top level modules:
+	MUX_3to1
+
+} {} {}} {C:/Users/yu/Desktop/co final/sign extend.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/sign extend.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} {C:/Users/yu/Desktop/co final/one_bit_ALU.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/one_bit_ALU.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module one_bit_ALU
+
+Top level modules:
+	one_bit_ALU
+
+} {} {}} {C:/Users/yu/Desktop/co final/memory.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} {C:/Users/yu/Desktop/co final/unsign_extend.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/unsign_extend.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module unsign_extend
+
+Top level modules:
+	unsign_extend
+
+} {} {}} {C:/Users/yu/Desktop/co final/alu_ctl.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/alu_ctl.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module alu_ctl
+
+Top level modules:
+	alu_ctl
+
+} {} {}} {C:/Users/yu/Desktop/co final/HiLo.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/HiLo.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module HiLo
+
+Top level modules:
+	HiLo
+
+} {} {}} {C:/Users/yu/Desktop/co final/registerfile.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/registerfile.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module RegisterFile
+
+Top level modules:
+	RegisterFile
+
+} {} {}} {C:/Users/yu/Desktop/co final/MUX_32bits_2to1.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/MUX_32bits_2to1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX32bits_2to1
+
+Top level modules:
+	MUX32bits_2to1
+
+} {} {}} {C:/Users/yu/Desktop/co final/MUX_5bits_2to1.v} {1 {vlog -work work {C:/Users/yu/Desktop/co final/MUX_5bits_2to1.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module MUX5bits_2to1
+
+Top level modules:
+	MUX5bits_2to1
+
+} {} {}}

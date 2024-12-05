@@ -1,0 +1,536 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\yu\Desktop\co-me
+vadd32
+!i10b 1
+Z1 !s100 PGFBUZ9LI6XM`Tz0ETDi30
+Z2 IZUhA@dLz6NjXJJB7iOJ<J2
+Z3 VU=ZXz5UM7[GT`X^NWc0cQ1
+Z4 dC:\Users\yu\Desktop\co final
+Z5 w1323667468
+Z6 8C:/Users/yu/Desktop/co final/add32.v
+Z7 FC:/Users/yu/Desktop/co final/add32.v
+L0 5
+Z8 OV;L;10.1d;51
+r1
+!s85 0
+31
+!s108 1686140772.814000
+!s107 C:/Users/yu/Desktop/co final/add32.v|
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/add32.v|
+!s101 -O0
+Z10 o-work work -O0
+vALU
+Z11 !s100 9WlgLW@:iJOz_:E30H3^b3
+Z12 IQAakXdGC50j_LI7KK3`H83
+Z13 V;l5@>GnT[V]PbDl^B_D162
+R4
+Z14 w1686131156
+Z15 8C:/Users/yu/Desktop/co final/ALU.v
+Z16 FC:/Users/yu/Desktop/co final/ALU.v
+L0 2
+R8
+r1
+31
+Z17 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/ALU.v|
+R10
+Z18 n@a@l@u
+!i10b 1
+!s85 0
+Z19 !s108 1686140772.762000
+Z20 !s107 C:/Users/yu/Desktop/co final/ALU.v|
+!s101 -O0
+valu_ctl
+Z21 !s100 Q86zM1Z1<^jNbh;7gmLCo2
+Z22 IODeoQICUX<lK[k@?gL6D`0
+Z23 VV6Of<TPEDjC8k=dGaP6Nn1
+R4
+Z24 w1686140644
+Z25 8C:/Users/yu/Desktop/co final/alu_ctl.v
+Z26 FC:/Users/yu/Desktop/co final/alu_ctl.v
+L0 11
+R8
+r1
+31
+Z27 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/alu_ctl.v|
+R10
+Z28 !s108 1686140772.707000
+Z29 !s107 C:/Users/yu/Desktop/co final/alu_ctl.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vbarrel_shifter
+Z30 !s100 RGcl^H9`Gl^CzGGibSf@Z2
+Z31 IPWO47gblRGnBOncc:k]0c2
+Z32 VET9ZX;c>6IA9`j?=deK>:2
+R4
+Z33 w1685913758
+Z34 8C:/Users/yu/Desktop/co final/barrel_shifter.v
+Z35 FC:/Users/yu/Desktop/co final/barrel_shifter.v
+L0 2
+R8
+r1
+31
+Z36 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/barrel_shifter.v|
+R10
+Z37 !s108 1686140772.556000
+Z38 !s107 C:/Users/yu/Desktop/co final/barrel_shifter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControl
+Z39 !s100 HE;;zAJVT^M;^8mJ9@@j]1
+Z40 IzN`ELGK0:686jE55hmTJP0
+Z41 V`PcBH@2NjGV=nN0caVe@n2
+R4
+Z42 w1686087102
+Z43 8C:/Users/yu/Desktop/co final/Control.v
+Z44 FC:/Users/yu/Desktop/co final/Control.v
+L0 1
+R8
+r1
+31
+Z45 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/Control.v|
+R10
+Z46 n@control
+Z47 !s108 1686090128.896000
+Z48 !s107 C:/Users/yu/Desktop/co final/Control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcontrol_single
+Z49 !s100 7BDQ^n:NaLcCj[];iTO>h0
+Z50 IB=C8Ph@VMdO9lM@F;h^X81
+Z51 VNa0nQN;><`Bd1Pjm94oGT0
+R4
+Z52 w1686131549
+Z53 8C:/Users/yu/Desktop/co final/control_single.v
+Z54 FC:/Users/yu/Desktop/co final/control_single.v
+L0 3
+R8
+r1
+31
+Z55 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/control_single.v|
+R10
+Z56 !s108 1686140772.501000
+Z57 !s107 C:/Users/yu/Desktop/co final/control_single.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vEX_MEM
+Z58 !s100 3?ziL_Cm7cZ;WCR=`A5=V1
+Z59 IPl6gM4;BDZ4PJ=^<iJ`781
+Z60 Vb<TNzL3S56X1PoR64b1jb0
+R4
+Z61 w1686085605
+Z62 8C:/Users/yu/Desktop/co final/EX_MEM.v
+Z63 FC:/Users/yu/Desktop/co final/EX_MEM.v
+L0 1
+R8
+r1
+31
+Z64 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/EX_MEM.v|
+R10
+Z65 n@e@x_@m@e@m
+Z66 !s108 1686140772.448000
+Z67 !s107 C:/Users/yu/Desktop/co final/EX_MEM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vFA
+Z68 !s100 U[=QG9K8j:o:XkKRa^BQ60
+Z69 I1<S`bNY9V]l`LODIhTeUz0
+Z70 VY5j2^gTTX5VL9kj@olPz?2
+R4
+Z71 w1683475280
+Z72 8C:/Users/yu/Desktop/co final/FA.v
+Z73 FC:/Users/yu/Desktop/co final/FA.v
+L0 3
+R8
+r1
+31
+Z74 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/FA.v|
+R10
+n@f@a
+Z75 !s108 1686140772.397000
+Z76 !s107 C:/Users/yu/Desktop/co final/FA.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vHiLo
+Z77 !s100 M6koi^Nhf5NZmPg45=APk1
+Z78 InecXOjejG9a967iY?d?l92
+Z79 VEaf]A`W>ZfVHh>bOf7>:X2
+R4
+Z80 w1686080482
+Z81 8C:/Users/yu/Desktop/co final/HiLo.v
+Z82 FC:/Users/yu/Desktop/co final/HiLo.v
+L0 2
+R8
+r1
+31
+Z83 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/HiLo.v|
+R10
+Z84 n@hi@lo
+Z85 !s108 1686140772.345000
+Z86 !s107 C:/Users/yu/Desktop/co final/HiLo.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vID_EX
+Z87 !s100 UU1_ZSASXT;C_W[0:D25I0
+Z88 IMmAHgeWEYGdIoMjc[b>BG3
+Z89 V=XBXI9Z454jjTl_07aOHi1
+R4
+Z90 w1686131930
+Z91 8C:/Users/yu/Desktop/co final/ID_EX.v
+Z92 FC:/Users/yu/Desktop/co final/ID_EX.v
+L0 1
+R8
+r1
+31
+Z93 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/ID_EX.v|
+R10
+Z94 n@i@d_@e@x
+Z95 !s108 1686140772.292000
+Z96 !s107 C:/Users/yu/Desktop/co final/ID_EX.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIF_ID
+Z97 !s100 4]O`6D=i@LFb]ETHbmLJz2
+Z98 Io[[KY:=a;cneUhQPBHAe@3
+Z99 VOzK@0`?ED3^]z8YjMnB:=2
+R4
+Z100 w1686084978
+Z101 8C:/Users/yu/Desktop/co final/IF_ID.v
+Z102 FC:/Users/yu/Desktop/co final/IF_ID.v
+L0 1
+R8
+r1
+31
+Z103 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/IF_ID.v|
+R10
+Z104 n@i@f_@i@d
+Z105 !s108 1686140772.239000
+Z106 !s107 C:/Users/yu/Desktop/co final/IF_ID.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMEM_WB
+Z107 !s100 z12VZJW3A:iCnN0gOgSVE1
+Z108 I:6mB;gz^7=5L4?XA8gc5;1
+Z109 V=c`inJH[haFadJM]XGlQ_2
+R4
+Z110 w1686085700
+Z111 8C:/Users/yu/Desktop/co final/MEM_WB.v
+Z112 FC:/Users/yu/Desktop/co final/MEM_WB.v
+L0 1
+R8
+r1
+31
+Z113 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/MEM_WB.v|
+R10
+Z114 n@m@e@m_@w@b
+Z115 !s108 1686140772.184000
+Z116 !s107 C:/Users/yu/Desktop/co final/MEM_WB.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMemory
+Z117 !s100 ;nHE:__6Bkl`a:;4QMYRb3
+Z118 I=VI@XRELGbTFCElSPa>mX3
+Z119 VS[eBJ?f9Y8HS8z1@X=6@40
+R4
+Z120 w1686035227
+Z121 8C:/Users/yu/Desktop/co final/memory.v
+Z122 FC:/Users/yu/Desktop/co final/memory.v
+L0 1
+R8
+r1
+31
+Z123 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/memory.v|
+R10
+Z124 n@memory
+Z125 !s108 1686140772.130000
+Z126 !s107 C:/Users/yu/Desktop/co final/memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmips_pipelined
+Z127 !s100 WOGnzC4UjOX7o?B>0HGbl3
+Z128 I?7eQnB`]RGSWNZW>SfJhK0
+Z129 VnQ;07YSI:mAni>8MCE@e@3
+R4
+Z130 w1686138898
+Z131 8C:/Users/yu/Desktop/co final/mips_pipelined.v
+Z132 FC:/Users/yu/Desktop/co final/mips_pipelined.v
+L0 1
+R8
+r1
+31
+Z133 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/mips_pipelined.v|
+R10
+Z134 !s108 1686140772.077000
+Z135 !s107 C:/Users/yu/Desktop/co final/mips_pipelined.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMultiplier
+Z136 !s100 Kd6B<e6fKG?L_M?:m>^nd0
+Z137 IPIl7j@Gf^9Q2m2IOgcjWZ2
+Z138 V;QGIQE4E9nn?af?inYQ^F3
+R4
+Z139 w1686082738
+Z140 8C:/Users/yu/Desktop/co final/Multiplier.v
+Z141 FC:/Users/yu/Desktop/co final/Multiplier.v
+L0 1
+R8
+r1
+31
+Z142 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/Multiplier.v|
+R10
+Z143 n@multiplier
+Z144 !s108 1686140772.026000
+Z145 !s107 C:/Users/yu/Desktop/co final/Multiplier.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX32bits_2to1
+Z146 !s100 7^T62Z4L:zPeMXRI7I0dB1
+Z147 I^G@0o5F20AQBhGn2h5[gk2
+Z148 VBiGm=b?0Q@nmLY?Wf1?Fi3
+R4
+Z149 w1685953635
+Z150 8C:/Users/yu/Desktop/co final/MUX_32bits_2to1.v
+Z151 FC:/Users/yu/Desktop/co final/MUX_32bits_2to1.v
+L0 1
+R8
+r1
+31
+Z152 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/MUX_32bits_2to1.v|
+R10
+Z153 n@m@u@x32bits_2to1
+Z154 !s108 1686140771.771000
+Z155 !s107 C:/Users/yu/Desktop/co final/MUX_32bits_2to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX5bits_2to1
+Z156 !s100 eUmKCd=_AV8QoM74AQYEQ1
+Z157 I?T`IS@C0Q277WETXmWmTZ1
+Z158 VebYNK?iA9<cjm`WCCW7H93
+R4
+Z159 w1654873850
+Z160 8C:/Users/yu/Desktop/co final/MUX_5bits_2to1.v
+Z161 FC:/Users/yu/Desktop/co final/MUX_5bits_2to1.v
+L0 1
+R8
+r1
+31
+Z162 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/MUX_5bits_2to1.v|
+R10
+Z163 n@m@u@x5bits_2to1
+Z164 !s108 1686140771.822000
+Z165 !s107 C:/Users/yu/Desktop/co final/MUX_5bits_2to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX_2to1
+Z166 !s100 ZT3[5CWGb85LZbgZ^`51l2
+Z167 IkO?P?c`g?zZAfJZ[bmQd<2
+Z168 VX6bECZOaM4CXO0:oSV=m72
+R4
+Z169 w1685903744
+Z170 8C:/Users/yu/Desktop/co final/MUX_2to1.v
+Z171 FC:/Users/yu/Desktop/co final/MUX_2to1.v
+L0 2
+R8
+r1
+31
+Z172 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/MUX_2to1.v|
+R10
+Z173 n@m@u@x_2to1
+Z174 !s108 1686140771.975000
+Z175 !s107 C:/Users/yu/Desktop/co final/MUX_2to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMUX_3to1
+Z176 !s100 8Z[>0LNSbFXeA5GdbMT;;0
+Z177 IlLl=X0lNEJGdzZYa4SSF_3
+Z178 VPo<dH<RjW]baoeJ2?e]jh1
+R4
+Z179 w1654955854
+Z180 8C:/Users/yu/Desktop/co final/MUX_3to1.v
+Z181 FC:/Users/yu/Desktop/co final/MUX_3to1.v
+L0 1
+R8
+r1
+31
+Z182 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/MUX_3to1.v|
+R10
+Z183 n@m@u@x_3to1
+Z184 !s108 1686140771.926000
+Z185 !s107 C:/Users/yu/Desktop/co final/MUX_3to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux_4to1
+Z186 !s100 [[DX7DED9SNzHmZdPHGhd2
+Z187 I:ZXJ2en6dDO_b:EW;BXTQ3
+Z188 V[[:1o8gch]RX`V7Y`WQ<80
+R4
+Z189 w1685884937
+Z190 8C:/Users/yu/Desktop/co final/MUX_4to1.v
+Z191 FC:/Users/yu/Desktop/co final/MUX_4to1.v
+L0 3
+R8
+r1
+31
+Z192 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/MUX_4to1.v|
+R10
+Z193 n@mux_4to1
+Z194 !s108 1686140771.875000
+Z195 !s107 C:/Users/yu/Desktop/co final/MUX_4to1.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vone_bit_ALU
+Z196 !s100 fgjWa7CaX81VO^j>``RNe1
+Z197 ILHfE:FnTCEVOgcbn`i9kH0
+Z198 VD81NT=5;a3^BWInHMz3=:2
+R4
+Z199 w1686048208
+Z200 8C:/Users/yu/Desktop/co final/one_bit_ALU.v
+Z201 FC:/Users/yu/Desktop/co final/one_bit_ALU.v
+L0 2
+R8
+r1
+31
+Z202 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/one_bit_ALU.v|
+R10
+Z203 none_bit_@a@l@u
+Z204 !s108 1686140771.708000
+Z205 !s107 C:/Users/yu/Desktop/co final/one_bit_ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vreg32
+Z206 !s100 1ZaC6LX`z>KKNbnFHVeY<3
+Z207 ImXjZ[@PP4NHO@U9Z8m<OL0
+Z208 V4bcQWEI[Z8fXRzc;L8:=h0
+R4
+Z209 w1323786478
+Z210 8C:/Users/yu/Desktop/co final/reg32.v
+Z211 FC:/Users/yu/Desktop/co final/reg32.v
+L0 13
+R8
+r1
+31
+Z212 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/reg32.v|
+R10
+Z213 !s108 1686140771.601000
+Z214 !s107 C:/Users/yu/Desktop/co final/reg32.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vreg_file
+Z215 !s100 1KP6fhfnX4KTg0CLTijAb3
+Z216 IMbe<3FV1Mfh0fVInLgO8G1
+Z217 V;TD^T<o1YZ@Mf3HHO`ke72
+R4
+Z218 w1686090349
+Z219 8C:/Users/yu/Desktop/co final/reg_file.v
+Z220 FC:/Users/yu/Desktop/co final/reg_file.v
+L0 1
+R8
+r1
+31
+Z221 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/reg_file.v|
+R10
+Z222 !s108 1686140771.658000
+Z223 !s107 C:/Users/yu/Desktop/co final/reg_file.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegisterFile
+Z224 !s100 8Y9nll?PPd9@^2WGZ8?3E0
+Z225 IW4ISHnTnz_UoX;=6TQkOQ1
+Z226 V[AUD6P@Q55ABDiH7AGE3M3
+R4
+Z227 w1686037323
+Z228 8C:/Users/yu/Desktop/co final/registerfile.v
+Z229 FC:/Users/yu/Desktop/co final/registerfile.v
+L0 1
+R8
+r1
+31
+Z230 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/registerfile.v|
+R10
+Z231 n@register@file
+Z232 !s108 1686090129.816000
+Z233 !s107 C:/Users/yu/Desktop/co final/registerfile.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vsign_extend
+Z234 !s100 M@fLEe6oiif;mQ8znekSD1
+Z235 ISAhJ?T5ZbU:IY4G7[1R410
+Z236 V0n8ATCOUh4>@]U0Sa]?X82
+R4
+Z237 w1654653867
+Z238 8C:/Users/yu/Desktop/co final/sign extend.v
+Z239 FC:/Users/yu/Desktop/co final/sign extend.v
+L0 10
+R8
+r1
+31
+Z240 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/sign extend.v|
+R10
+Z241 !s108 1686140771.546000
+Z242 !s107 C:/Users/yu/Desktop/co final/sign extend.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vtb_SingleCycle
+Z243 Ik<>YPWhf_VhYZ`YTW5P>j3
+Z244 ViJSCIjXLP^[C:ChGEz=CS1
+R4
+Z245 w1686140759
+Z246 8C:\Users\yu\Desktop\co final\tb_SingleCycle.v
+Z247 FC:\Users\yu\Desktop\co final\tb_SingleCycle.v
+L0 5
+R8
+r1
+31
+Z248 !s90 -reportprogress|300|-work|work|C:\Users\yu\Desktop\co final\tb_SingleCycle.v|
+R10
+Z249 ntb_@single@cycle
+Z250 !s100 g4UVnS^mOMSn>:IO@jjRA0
+Z251 !s108 1686140771.491000
+Z252 !s107 C:\Users\yu\Desktop\co final\tb_SingleCycle.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vunsign_extend
+Z253 !s100 Rg=fcYclzf_M3j[nScSmN2
+Z254 I>MO=B?l8PgJJ1nH;=80]e1
+Z255 VMz52WhkbWn]kVY7G0b>iH1
+R4
+Z256 w1686032197
+Z257 8C:/Users/yu/Desktop/co final/unsign_extend.v
+Z258 FC:/Users/yu/Desktop/co final/unsign_extend.v
+L0 1
+R8
+r1
+31
+Z259 !s90 -reportprogress|300|-work|work|C:/Users/yu/Desktop/co final/unsign_extend.v|
+R10
+Z260 !s108 1686140771.437000
+Z261 !s107 C:/Users/yu/Desktop/co final/unsign_extend.v|
+!i10b 1
+!s85 0
+!s101 -O0
