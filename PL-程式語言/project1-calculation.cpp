@@ -1323,14 +1323,7 @@ int main() {
       gTokenList.push_back( token_info_temp ) ;
     } // if
 
-    /*
-    cout << "ger of token list " << endl;
-    for ( int i = 0 ; i < gTokenList.size() ; i++ ) {
-     cout << "1616 " << i << " " << gTokenList[i].tokenStr << endl ;
-    } // for
-    */
-
-    /*
+    
     bool div0 = false ;
     int firstnum_ap = 0 ;
     for ( int i = 0 ; i < gTokenList.size() ; i++ ) {
@@ -1355,11 +1348,11 @@ int main() {
       cin.getline( c, 500, '\n' ) ;
       gTokenList.clear() ;
     } // if div 0
-    */
+    
 
     bool undef = false ;
     gIndex = 0 ; // 每次進parser tree都要從list的頭開始檢查
-    /*
+    
     if ( ! unrecognized && ! dot_Error && ! div0 ) {       // 放這是因為如果是 1.23.65;  這樣分號也會變成error msg且印出來
       if ( ! Parser_Tree() ) {
         cout << "Unexpected token : \'" << tokenStr << "\'" << endl ;
@@ -1401,7 +1394,7 @@ int main() {
         } // else ! QUIT
       } // else
     }  // if parser tree is false, then allocate the vector
-    */
+    
 
     if ( QUIT() && gTokenList.size() != 0 )  
       done = true ;
